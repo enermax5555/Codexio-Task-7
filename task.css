@@ -1,0 +1,94 @@
+.logo {
+    justify-content: center;
+    margin:auto;
+    transform: translate(0%, 50%);
+    align-items: center;
+    height: 45vh;
+    width: 50vh;
+  }
+  .container {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 auto;
+    width:100%;
+  }
+  .row1 {
+    justify-content: center;
+    width: 100%;
+  }
+  .square1{
+    width: 20rem;
+    height: 20rem;
+    max-width: 9rem;
+    max-height: 50px;
+    margin: 1.5rem;
+    background-color: #6e2f65;
+  }
+  
+  .square2{
+    width: 20rem;
+    height: 20rem;
+    max-width: 9rem;
+    max-height: 50px;
+    margin: 1.5rem;
+    background-color: #6e2f65;
+
+  }
+  .square3{
+    width: 28rem;
+    height: 20rem;
+    max-width: 40rem;
+    max-height: 50px;
+    margin: 1.5rem;
+    background-color: #5a468c;
+  }
+  .square4{
+    width: 28rem;
+    height: 20rem;
+    max-height:50px;
+    margin: 1.5rem;
+    background-color: #4e5291;
+  }
+  .square5{
+    width: 28rem;
+    height: 20rem;
+    max-height: 50px;
+    margin: 1.5rem;
+    background-color: #0550a5;
+  }
+  .row1Center {
+    display: flex;
+    justify-content: space-between;
+  }
+  .rectangle1{
+    width: 40rem;
+    height: 20rem;
+    max-height: 50px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    background-color: #5a468c;
+  }
+  .rectangle2 {
+    width: 40rem;
+    height: 20rem;
+    max-height: 50px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    background-color: #4e5291;
+  }
+  .rectangle3 {
+    width: 40rem;
+    height: 20rem;
+    max-height: 50px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    background-color: #0550a5;
+  }
